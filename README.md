@@ -1,9 +1,9 @@
 # Hi! 👋 
-<p>
-  My name is Alexey, I'm from Moscow!🙈
-I am a Fullstack JavaScript developer.😎
-I love cycling, travel and video games.🙀
-</p>
+
+My name is Alexey, I'm from Moscow! 🙈 <br />
+I am a Fullstack JavaScript developer. 😎 <br />
+I love cycling, travel and video games. 🙀 <br />
+
 
 
 <br />
