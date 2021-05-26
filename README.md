@@ -3,11 +3,6 @@
 My name is Alexey, I'm from Moscow! 🙈 <br />
 I am a Fullstack JavaScript developer. 😎 <br />
 I love cycling, travel and video games. 🙀 <br />
-
-
-
-<br />
-
 ### Check my projects: [Restaurant](https://github.com/Alexoch-AI/Restaurant/), [Fly Friends](https://fly-friends.herokuapp.com/)
 
 <br />
