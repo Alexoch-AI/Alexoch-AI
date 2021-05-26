@@ -2,9 +2,13 @@
 #### My name is Alexey, I'm from Moscow!🙈
 #### I am a Fullstack JavaScript developer.😎
 #### I love cycling, travel and video games.🙀
+
 <br />
 
 ### Check my projects: [Restaurant](https://github.com/Alexoch-AI/Restaurant/), [Fly Friends](https://fly-friends.herokuapp.com/)
+
+<br />
+
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
 ![ReactJS](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React)
@@ -17,8 +21,11 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 ![codewars](https://www.codewars.com/users/N0love/badges/large)
+
 <br />
+
 ![](https://visitor-badge.glitch.me/badge?page_id=Alexoch-AI)
+
 ### 💬 Mail me: mailalexoch@gmail.com
 ### ⚡️ Telegram: @alexdegreen
 #
