@@ -36,3 +36,6 @@ I love cycling, travel and video games. 🙀 <br />
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexoch-ai&show_icons=true&theme=dark" alt="alexoch-ai" />
+  
+  
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexoch-ai&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
