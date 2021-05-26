@@ -1,8 +1,8 @@
 # Hi! 👋 
-### My name is Alexey, I'm from Moscow!🙈
-### I am a Fullstack JavaScript developer.😎
-### I love cycling, travel and video games.🙀
-
+#### My name is Alexey, I'm from Moscow!🙈
+#### I am a Fullstack JavaScript developer.😎
+#### I love cycling, travel and video games.🙀
+<br />
 ### Check my projects: [Restaurant](https://github.com/Alexoch-AI/Restaurant/), [Fly Friends](https://fly-friends.herokuapp.com/)
 ### Languages and Technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript)
