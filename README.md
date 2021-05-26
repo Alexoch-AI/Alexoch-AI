@@ -13,8 +13,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
 
 ![codewars](https://www.codewars.com/users/N0love/badges/large)
+<br />
 ![](https://visitor-badge.glitch.me/badge?page_id=Alexoch-AI)
-
 ### 💬 Mail me: mailalexoch@gmail.com
 ### ⚡️ Telegram: @alexdegreen
 #
