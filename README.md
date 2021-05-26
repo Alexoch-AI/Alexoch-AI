@@ -11,6 +11,7 @@
 ![NodeJS](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=Node)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3)
+https://www.codewars.com/users/N0love/badges/large
 ### 💬 Mail me: mailalexoch@gmail.com
 ### ⚡️ Telegram: @alexdegreen
 #
