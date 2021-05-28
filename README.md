@@ -1,4 +1,4 @@
-# Hi there!
+# Hi there!🤘
 
 My name is Alexey Ochirov, I'm from Moscow! 🙈 <br />
 I am a Fullstack JavaScript developer. 😎 <br />
