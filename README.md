@@ -24,8 +24,3 @@ I love cycling, travel and video games. 🙀 <br />
 
 ### 💬 Mail me: mailalexoch@gmail.com
 ### ⚡️ Telegram: @alexdegreen
-#
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=alexoch-ai&show_icons=true&theme=dark" alt="alexoch-ai" />
