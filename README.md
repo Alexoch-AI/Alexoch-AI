@@ -21,6 +21,3 @@ I love cycling, travel and video games. 🙀 <br />
 <br />
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Alexoch-AI)
-
-### 💬 Mail me: mailalexoch@gmail.com
-### ⚡️ Telegram: @alexdegreen
